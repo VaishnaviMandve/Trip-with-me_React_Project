@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trip-with-me_React_Project/static/css/main.decdb0db.css",
+    "main.js": "/Trip-with-me_React_Project/static/js/main.71a093ea.js",
+    "index.html": "/Trip-with-me_React_Project/index.html",
+    "main.decdb0db.css.map": "/Trip-with-me_React_Project/static/css/main.decdb0db.css.map",
+    "main.71a093ea.js.map": "/Trip-with-me_React_Project/static/js/main.71a093ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.71a093ea.js"
+  ]
+}
